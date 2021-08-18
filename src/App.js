@@ -10,7 +10,7 @@ var emojiDictionary = {
   "😑": "annoyance",
   "😎": "i am smart as well as cool",
   "☹️": "classic sad face",
-  "🥱": "yanning face",
+  "🥱": "yawning face",
   "👿": "angry face"
 };
 
